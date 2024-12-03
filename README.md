@@ -1,5 +1,6 @@
 # trail_rdm
 just a trial version to see how it works. 
+Second information
 
 # Funding 
 this is funded by SNF
